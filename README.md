@@ -1,1 +1,1 @@
-# CV.md
+https://vladpristavkin.github.io/CV.md/CV
