@@ -1,6 +1,6 @@
 # Uladzislau Prystaukin
 
-
+![Profile Picture](/img/Avatar.jpg)
 
 
 ## CONTACT
